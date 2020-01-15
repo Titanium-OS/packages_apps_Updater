@@ -37,7 +37,7 @@ public final class Constants {
     static final int AUTO_UPDATES_CHECK_INTERVAL_MONTHLY = 3;
     static final String PROP_AB_DEVICE = "ro.build.ab_update";
     static final String PROP_DEVICE = "ro.titanium.device";
-    static final String PROP_BUILD_VERSION = "ro.titanium.version";
+    static final String PROP_BUILD_VERSION = "ro.titanium.platform.version";
     static final String PROP_VERSION_CODE = "ro.titanium.ota.version_code";
     static final String OTA_URL = "https://raw.githubusercontent.com/Titanium-OS-Devices/official_devices/master/builds/%s.json";
     static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Titanium-OS-Devices/official_devices/master/changelogs/changelogs/%s/%s.txt";
