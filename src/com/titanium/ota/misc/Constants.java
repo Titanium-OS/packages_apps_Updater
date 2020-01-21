@@ -39,8 +39,8 @@ public final class Constants {
     static final String PROP_DEVICE = "ro.titanium.device";
     static final String PROP_BUILD_VERSION = "ro.titanium.platform.version";
     static final String PROP_VERSION_CODE = "ro.titanium.ota.version_code";
-    static final String OTA_URL = "https://raw.githubusercontent.com/Titanium-OS-Devices/official_devices/master/builds/%s.json";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Titanium-OS-Devices/official_devices/master/changelogs/changelogs/%s/%s.txt";
+    static final String OTA_URL = "https://raw.githubusercontent.com/TitaniumOS-Devices/official_devices/master/builds/%s.json";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/TitaniumOS-Devices/official_devices/master/changelogs/changelogs/%s/%s.txt";
     public static final String DOWNLOAD_PATH = "/data/system_updates/";
     static final String EXPORT_PATH = "TitaniumOS-Updates/";
 }
